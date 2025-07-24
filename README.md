@@ -20,8 +20,8 @@ BDD Automation using Selenium, Java, Cucumber, Maven.
 3. Run tests using `TestRunner.java` or `mvn test`
 
 ## Test Data
-- Valid user: user@example.com / user123
-- Invalid user: invalid@user.com / wrongpass
+- Valid user: admin@shophub.com  /  admin123 
+- Invalid user: admin@shophub.com  / admin1234 
 
 ## Reports
 - HTML report: `target/cucumber.html`
