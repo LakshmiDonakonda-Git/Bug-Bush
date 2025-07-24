@@ -1,5 +1,5 @@
-# Bug-Bush
-# Bug Bush Login Automation
+# Bug-Bash
+# Bug Bash Login Automation
 
 ## Overview
 BDD Automation using Selenium, Java, Cucumber , TestNG, Maven.
