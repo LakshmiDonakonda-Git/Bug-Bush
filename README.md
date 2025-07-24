@@ -2,7 +2,7 @@
 # Bug Bush Login Automation
 
 ## Overview
-BDD Automation using Selenium, Java, Cucumber, Maven.
+BDD Automation using Selenium, Java, Cucumber , TestNG, Maven.
 
 ## Project Structure
 - Feature files in `src/test/resources/features`
